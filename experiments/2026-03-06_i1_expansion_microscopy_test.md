@@ -60,7 +60,7 @@ objective.
 
 ## Result
 
-![Post-expanded larval Drosophila brain](ExpandedTissue.png)
+![Post-expanded larval Drosophila brain](img/ExpandedTissue.png)
 
 *Figure 1. Post-expanded 8 h ALH larval Drosophila brain stained for TdTomato (magenta), GAT-positive astrocytes (yellow), 
 and GFP-labeled mitochondria (cyan). Image produced by Dunham Clark using a Zeiss LSM 980 Airyscan microscope with a 40x water-immersion 

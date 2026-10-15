@@ -25,6 +25,7 @@ tfcb_2026_demo/
             │   └── README.md
             └── tables/
                 └── tidy_data.csv
+```
 
 ## Collaboration
 
